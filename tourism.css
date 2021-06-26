@@ -1,0 +1,539 @@
+.bg {
+    width: 100%;
+    height: 600px;
+    margin: 0;
+    top: 0px;
+    position: absolute;
+
+}
+.Home {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    position: absolute;
+    left: 150px;
+}
+.button {
+    height: 300px;
+    width: 300px;
+    left: 450px;
+    position: absolute;
+}
+.smile {
+    height: 200px;
+    width: 200px;
+    left: 100px;
+    position: absolute;
+}
+.aeroplane {
+    height: 400px;
+    width: 400px;
+    right: 100px;
+    position: absolute;
+}
+.so {
+    font-size: 40px;
+    text-align: center;
+    color: #649CCF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.blue {
+    height: 600px;
+    width: 100%;
+    background-color: #9DFFE7;
+    position: absolute;
+    top: 1400px;
+}
+.foot {
+    position: absolute;
+    top: 600px;
+    background-color: black;
+    width: 100%;
+    height: 150px;
+}
+.son {
+    position: absolute;
+    top:10px;
+    left: 300px;
+    height:400px;
+    width: 600px; 
+}
+.sri {
+position: absolute;
+top:10px;
+left: 300px;
+height:400px;
+width: 600px;
+}
+#sonvideo {
+    background-color: blanchedalmond;
+    position: absolute;
+top:500px;
+width:100%;
+height:500px;
+}
+#shrivideo {
+    background-color: aquamarine;
+    position: absolute;
+top:1500px;
+width:100%;
+height:500px;
+}
+.non {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 340px;
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    right: 300px; 
+}
+.som {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 210px;
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    right: 300px; 
+}
+.fis {
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    right: 300px;
+}
+.somj {
+    position: absolute;
+    top:400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height:300px;
+    width: 400px;
+    right:300px;
+    text-align: center;
+}
+.mainl {
+    position: absolute;
+    top:80px;
+    left:80px;
+    height:400px;
+    width:500px;
+}
+.mainlk {
+    position: absolute;
+    top:80px;
+    left:80px;
+    height:500px;
+    width:500px;
+  
+}
+#royal {
+    background-color: #FFB365;
+    position: absolute; 
+    top:1800px;
+    height:700px;
+    width:100%;
+}
+#vittala {
+    background-color: #EFB880;
+    height:600px;
+    width:100%;
+    position: absolute;
+   top:1200px;
+}
+.foru {
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    right:40px;
+    top:800px;
+}
+.three {
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    left:40px;
+    top:800px;
+
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+.two {
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    right:40px;
+    top:300px;
+
+}
+.fisk {
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    height: 300px;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.all {
+    animation: fird 6s 1;
+}
+@keyframes fird {
+0%{opacity: 0;}
+100%{opacity: 1;}
+}
+.startm {
+    position:absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    animation: fir 6s 1;
+}
+@keyframes fir {
+    0% {opacity: 1;}
+    100%{opacity: 0;}
+}
+.query {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    right:240px;
+    position: absolute;
+    top: 400px;
+    font-size: 30px;
+}
+.email {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    right:240px;
+    position: absolute;
+    top: 460px;
+    font-size: 30px;
+    color: lightblue
+}
+.pink {
+    background-color: #FAF9F6;
+}
+.lo {
+    position: absolute;
+    height:400px;
+    width:600px;
+    left: 200px;
+    top: 200px;
+
+}
+.lwg {
+    position: absolute;
+  left: 500px;
+    font-size: 120px;
+    top: 200px;
+}
+.lw {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    left: 300px;
+    text-align: center;
+    font-size: 60px;
+}
+.lastw {
+    position: absolute;
+    top: 3900px;
+    background-color: azure;
+    height: 500px;
+    width:100%;
+}
+.brown {
+    background-color: #9B654B;
+}
+.nonl {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 700px;
+    right: 300px;
+    height: 400px;
+    width:400px;
+}
+#hemakuta {
+    background-color: #FF8508;
+    position: absolute;
+    top: 3000px;
+    height:900px;
+    width: 100%;
+}
+.vv {
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    left:40px;
+    top:300px;
+
+}
+#lous {
+    position: absolute;
+    top:2400px;
+    background-color: #F69E43;
+    height:600px;
+    width: 100%;
+}
+.trav {
+    position: absolute;
+    color: #FAF9F6;
+    top: 140px;
+    text-align: center;
+    left:500px;
+}
+.hampiplan {
+    height: 400px;
+    width: 500px;
+}
+#kvideo {
+background-color: #FFC737;
+position: absolute;
+top:1000px;
+width:100%;
+height:500px;
+}
+.lastst {
+    position: absolute;
+   top:1600px;
+   left: 160px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkslateblue;
+}
+.heart {
+    position: absolute;
+    top:1600px;
+    left: 450px;
+     font-size: 90px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: darkslateblue;
+}
+.footer {
+    position: absolute;
+    top: 5px;
+}
+#pahalgamid {
+    background-color: greenyellow;
+position: absolute;
+top:1000px;
+width:100%;
+height:500px;
+}
+.pahla {
+    position: absolute;
+    height: 300px;
+    width: 450px;
+    right:80px;
+    top:600px;
+    
+}
+.sonmarg {
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    left:60px;
+    top:600px;
+
+}
+.sringar {
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    right:80px;
+    top:300px;
+}
+
+.kv {
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    left:40px;
+    top:300px;
+}
+.orange {
+    background-color: #FFB996;
+}
+.travpla {
+    position: absolute;
+    top:80px;
+    left:400px;
+    height:200px;
+    width: 400px;
+}
+.land {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    right: 30px;
+    animation: fade 10s 1; 
+    opacity:0;
+    top: 40px;
+}
+@keyframes fade {
+0%{opacity: 0;}
+100%{opacity: 1;}
+}
+.aero {
+    animation: flight 6s 1;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    opacity:0;
+
+}
+@keyframes flight {
+    0%{top: 60px; left: 30px; opacity: 1;}
+   100%{top: 20px; left: 100px; opacity:0;}
+   
+}
+.cluds {
+    height: 500px;
+    width: 100%;
+    
+}
+.hampi {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+
+}
+.kashmir {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+.place {
+    position: absolute;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 400px;
+    top: 100px;
+}
+.back {
+    position: absolute;
+    top: 80px;
+    width: 100%;
+
+}
+h4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 400px;
+}
+.footer {
+    position: absolute;
+    top: 2000px;
+    background-color: black;
+    width: 100%;
+    height: 150px;
+
+}
+.benefits {
+    text-align: center;
+    color: #EC6408;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.features {
+height: 500px;
+width: 1000px;
+position: absolute;
+left: 150px;
+animation: fadeIn 10s 1;
+}
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+ } 
+.sec {
+height: 800px;
+    width: 100%;
+    background-color: #FFD9D9;
+    position: absolute;
+    top: 600px;
+  
+}
+.sub {
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    color: #FF5757;
+    left: 450px;
+    top: 150px;
+    font-size: 20px;
+}
+
+.touristar {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    color: #C6086F;
+    left: 450px;
+    top: 10px;
+    font-size: 70px;
+}
+.contact {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    position: absolute;
+    left: 860px;
+}
+.Logo {
+    position: absolute;
+    
+    height: 290px;
+    width: 300px;
+    top: 5px;
+    left: 100px;
+}
+.intro {
+    position: absolute;
+    background-color: #B5EEB4;
+    height: 300px;
+    width: 800px;
+    top: 200px;
+    left: 300px;
+}
+.nvabar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 80px;
+    width: 100%;
+    background-color: #FFE992;
+}
+.lets {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    position: absolute;
+    left: 500px;
+}
